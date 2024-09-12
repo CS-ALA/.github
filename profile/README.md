@@ -14,5 +14,5 @@
 </div>
 
 <sub>
-  Organization created by: @Andrei Jose R. Embarque
+  Organization created by: @AnapalOne (Andrei Embarque)
 </sub>
